@@ -5846,7 +5846,7 @@ border-radius: 0 0 5px 5px;
 	border-radius: 0 !important;
 }
 [class*="selectorButtonSelected_"]:hover, .theme-light [class*="selectorButtonSelected_"]:hover {
-	background: linear-gradient(to top, transparent 10%, rgba(92,109,162) 100%) !important;
+	background: linear-gradient(to top, transparent 10%, rgba(255, 204, 223) 100%) !important;
 	background-color: rgba(57,73,124) !important;
 }
 
