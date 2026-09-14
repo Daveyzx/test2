@@ -5847,7 +5847,7 @@ border-radius: 0 0 5px 5px;
 }
 [class*="selectorButtonSelected_"]:hover, .theme-light [class*="selectorButtonSelected_"]:hover {
 	background: linear-gradient(to top, transparent 10%, rgba(244,188,215) 100%) !important;
-	background-color: rgba(57,73,124) !important;
+	background-color: rgba(237,131,179) !important;
 }
 
 [class*="selectorButton_"]:active, .theme-light [class*="selectorButton_"]:active, [class*="selectorButtonSelected_"]:active {
@@ -6218,7 +6218,7 @@ border-radius: 0 0 5px 5px;
 }
 .calendarPicker_d27f17 .react-datepicker__day.react-datepicker__day--selected {
 	color: white;
-	background: linear-gradient(to top, transparent 10%, rgba(25,41,74) 100%);
+	background: linear-gradient(to top, transparent 10%, rgba(237,131,179) 100%);
 	background-color: rgba(244,188,215);
 }
 .calendarPicker_d27f17 .react-datepicker__day.react-datepicker__day--selected:hover {
@@ -6228,7 +6228,7 @@ border-radius: 0 0 5px 5px;
 }
 .calendarPicker_d27f17 .react-datepicker__day.react-datepicker__day--selected:active {
 	color: white;
-	background: linear-gradient(to top, transparent 10%, rgba(5,21,54) 100%);
+	background: linear-gradient(to top, transparent 10%, rgba(237,131,179) 100%);
 	background-color: rgba(244,188,215);
 }
 
@@ -6404,7 +6404,7 @@ border-radius: 0 0 5px 5px;
 	color: white;
 	background: linear-gradient(to top, transparent 50%, rgba(255,255,255,0.4)100%);
     box-shadow: inset 0 0 0 1px rgba(230,230,230,0.6) !important;
-	background-color: rgba(22,65,132, 0.6);
+	background-color: rgba(237,131,179);
 	border-radius: 3px;
 	margin-right: 1px;
 	transition: none !important;
@@ -6414,7 +6414,7 @@ border-radius: 0 0 5px 5px;
 	color: white;
 	background: linear-gradient(to top, transparent 50%, rgba(255,255,255,0.4)100%);
     box-shadow: inset 0 0 0 1px rgba(60,60,60,0.6) !important;
-	background-color: rgba(22,65,132, 0.6);
+	background-color: rgba(237,131,179);
 	border-radius: 3px;
 	margin-right: 1px;
 	transition: none !important;
