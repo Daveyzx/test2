@@ -3349,7 +3349,7 @@ border-radius: 0 0 5px 5px;
 	margin-left: 1px !important;
 	/*switch grabber*/
 }
-.switchIndicator_a28278[style="opacity: 1; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.12);"] .thumb_a28278, .switchIndicator_a28278[style="opacity: 1; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.12);"] .thumb_a28278, .theme-light .switchIndicator_a28278[style="opacity: 1; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.28);"] .thumb_a28278, .theme-light .switchIndicator_a28278[style="opacity: 1; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.28);"] .thumb_a28278, .switchIndicator_a28278[style="opacity: 1; background-color: rgb(58, 72, 163); border: 1px solid rgba(151, 151, 159, 0.12);"] .thumb_a28278, .switchIndicator_a28278[style="opacity: 0.5; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.12);"] .thumb_a28278 {
+.switchIndicator_a28278[style="opacity: 1; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.12);"] .thumb_a28278, .switchIndicator_a28278[style="opacity: 1; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.12);"] .thumb_a28278, .theme-light .switchIndicator_a28278[style="opacity: 1; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.28);"] .thumb_a28278, .theme-light .switchIndicator_a28278[style="opacity: 1; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.28);"] .thumb_a28278, .switchIndicator_a28278[style="opacity: 1; background-color: rgb(237, 131, 179); border: 1px solid rgba(151, 151, 159, 0.12);"] .thumb_a28278, .switchIndicator_a28278[style="opacity: 0.5; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.12);"] .thumb_a28278 {
 	margin-left: -4.5px !important;
 	/*switch grabber*/
 }
@@ -6422,12 +6422,12 @@ border-radius: 0 0 5px 5px;
 }
 .wrapper_f61d60:hover, .mentioned__5126c .channelMention.wrapper_f61d60:hover {
 	background: linear-gradient(to top, transparent 45%, rgba(255,255,255,0.55)100%);
-	background-color: rgba(52,95,162,0.6);
+	background-color: rgba(244,188,215);
 	transition: none !important;
 }
 .wrapper_f61d60:active, .mentioned__5126c .channelMention.wrapper_f61d60:active {
 	background: linear-gradient(to top, transparent 52%, rgba(0,0,0,0.3)100%);
-	background-color: rgba(42,85,152,0.6);
+	background-color: rgba(237,131,179);
 	transition: none !important;
 }
 .topic__6ec1a .wrapper_f61d60 .icon_b52c3f {
