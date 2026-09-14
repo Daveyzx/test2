@@ -5852,7 +5852,7 @@ border-radius: 0 0 5px 5px;
 
 [class*="selectorButton_"]:active, .theme-light [class*="selectorButton_"]:active, [class*="selectorButtonSelected_"]:active {
 	background: linear-gradient(to top, transparent 12%, rgba(237,131,179) 100%) !important;
-	background-color: rgba(47,64,117) !important;
+	background-color: rgba(237,131,179) !important;
 }
 .pillItemSelected__9e06a {
 	box-shadow: inset 0 0 0 1px rgba(0,0,0,0.6);
@@ -6214,7 +6214,7 @@ border-radius: 0 0 5px 5px;
 .calendarPicker_d27f17 .react-datepicker__day:active, .calendarPicker_d27f17 .react-datepicker__day.react-datepicker__day--keyboard-selected:active {
 	color: white;
 	background: linear-gradient(to top, transparent 10%, rgba(2,12,35) 100%);
-	background-color: rgba(59,78,145);
+	background-color: rgba(237,131,179);
 }
 .calendarPicker_d27f17 .react-datepicker__day.react-datepicker__day--selected {
 	color: white;
@@ -6223,7 +6223,7 @@ border-radius: 0 0 5px 5px;
 }
 .calendarPicker_d27f17 .react-datepicker__day.react-datepicker__day--selected:hover {
 	color: white;
-	background: linear-gradient(to top, transparent 10%, rgba(45,61,94) 100%);
+	background: linear-gradient(to top, transparent 10%, rgba(237,131,179) 100%);
 	background-color: rgba(244,188,215);
 }
 .calendarPicker_d27f17 .react-datepicker__day.react-datepicker__day--selected:active {
