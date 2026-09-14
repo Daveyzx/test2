@@ -4137,7 +4137,7 @@ border-radius: 0 0 5px 5px;
 .uploadArea_b78547 .uploadDropModal_b78547 .bgScale_b78547 {
     box-shadow: 0 0 3px 3px rgba(0,0,0,0.4);
 	border-radius: 5px;
-	background: linear-gradient(to top, transparent 35%, rgba(67,84,137) 100%);
+	background: linear-gradient(to top, transparent 35%, rgba(255, 204, 223) 100%);
     border: 1px solid rgba(230,230,230,0.6);
 	background-color: rgba(37,53,104);
 	/*upload drag & drop popup*/
@@ -6263,7 +6263,7 @@ border-radius: 0 0 5px 5px;
 	background: linear-gradient(to top, transparent 40%, hsl(43, calc(var(--saturation-factor, 1) * 3.4%), 60.2%) 100%) !important;
 	background-color: hsl(43, calc(var(--saturation-factor, 1) * 6.8%), 79.8%) !important;
 	border-radius: 5px;
-	box-shadow: inset 0 0 0 1px rgba(227,226,225), inset 0 0 0 2px rgba(109,109,109);
+	box-shadow: inset 0 0 0 1px rgba(227,226,225), inset 0 0 0 2px rgba(255, 204, 223);
 	/*message select - light mode*/
 }		
 
@@ -6422,7 +6422,7 @@ border-radius: 0 0 5px 5px;
 }
 .wrapper_f61d60:hover, .mentioned__5126c .channelMention.wrapper_f61d60:hover {
 	background: linear-gradient(to top, transparent 45%, rgba(255,255,255,0.55)100%);
-	background-color: rgba(52,95,162,0.6);
+	background-color: rgba(255, 204, 223);
 	transition: none !important;
 }
 .wrapper_f61d60:active, .mentioned__5126c .channelMention.wrapper_f61d60:active {
@@ -6782,7 +6782,7 @@ border-radius: 0 0 5px 5px;
 }
 .bar__7aaec  {
 	border: 1px solid rgba(230,230,230,0.6) !important;
-	background-image: linear-gradient(to top, transparent 42%, rgba(67,84,137) 100%) !important;
+	background-image: linear-gradient(to top, transparent 42%, rgba(255, 204, 223) 100%) !important;
 	background-color: rgba(37,53,104) !important;
 	box-shadow: 0 0 3px 3px rgba(0,0,0,0.4) !important;
 	border-radius: 5px !important;
@@ -8368,8 +8368,8 @@ border-radius: 0 0 5px 5px;
 }
 
 .avatarUploaderInner_ab876d, .avatarUploaderInner_cd0bbe, [class*="contentCircle_"], .iconContainer__46773 {
-	background: linear-gradient(to top, transparent 22%, rgba(80,96,151) 100%);
-	background-color: rgba(104,133,225);
+	background: linear-gradient(to top, transparent 22%, rgba(255, 204, 223) 100%);
+	background-color: rgba(255, 204, 223);
 	box-shadow: inset 0 0 0 2px rgba(0,0,0,0.6), 0 0 3px 3px rgba(0,0,0,0.4) !important;
 	border: 3px solid rgba(180,180,180) !important;
 }
