@@ -3322,7 +3322,7 @@ border-radius: 0 0 5px 5px;
 	border: none !important;
 	/*settings switch disabled background*/
 }
-.switchIndicator_a28278[style="opacity: 1; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.12);"], .switchIndicator_a28278[style="opacity: 1; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.12);"], .switchIndicator_a28278[style="opacity: 1; background-color: rgb(58, 72, 163); border: 1px solid rgba(151, 151, 159, 0.12);"], .switchIndicator_a28278[style="opacity: 0.5; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.12);"], .bd-switch.bd-switch-checked .bd-switch-body, .vc-switch-checked .vc-switch-indicator {
+.switchIndicator_a28278[style="opacity: 1; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.12);"], .switchIndicator_a28278[style="opacity: 1; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.12);"], .switchIndicator_a28278[style="opacity: 1; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.12);"], .switchIndicator_a28278[style="opacity: 0.5; background-color: rgb(244, 188, 215); border: 1px solid rgba(151, 151, 159, 0.12);"], .bd-switch.bd-switch-checked .bd-switch-body, .vc-switch-checked .vc-switch-indicator {
 	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAYCAIAAAAH5iiXAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsEAAA7BAbiRa+0AAAPPSURBVEhLrZbNbxtFGIf3y7v22jFJmtKKQFIRqBpCIyrBASQQEuLQQ8UVISEkBBckpKp/CJceAYleOHEAceihAhGFDwnUAmlDoCUQSlSVpDhNYq/t/ZjheXe2HzE9pHZ+Go1nZ8a/Z2bemZ21v5g7b90l2y4KllZKZeRaax6Kyt3KRpbtOI5LbqrE5i7ZX81faEZdSmmqHMdWSge+rdL44uKVhcXf/7p6/Z/1Rppmpvcu5Xnugf2jkxMHZ2ceOzrzuOP53Vgbc8+TcdTCQMCtKOYBd9vWcTf6aeHXz8/ON6OkHI74Qc0rVRy3lBvuVipL0qQdd5udaKMWlk4cf/6p2SN+EGptMyY6VEP/DjiOY5W1Pzjz2eXla9X6wXI4Kss1mAhTJ2q0tq4fnnrorTdecdyK7/vUG/CPrXZXw4y23jv98cZ2Wh89JLEp/ikxlojdClUfYq9sNVZGhrxT775WCeu241YrgWMxK61Zmfc/+nSzqYfHplzXy0k29Vkap3GLnLKp7EMYYos5CEBYAZV54Dv39fmVvxv1fZP0M8NESmdJd/vM6bfJKRe1fQlbzEEAkmlYgJlWFp/78vsH9k2ywvkQRdLbkqYkScgpm//3LcxBAMINqEMAfriwpJyKX67aDu13kkWyNGByyj2tfSQQgASnMocJ//Lbn5wcmeG9Eru9p2aQBAgcUMBqdXWN81qsyP/EjIvSXggQOKAS482tZsmvFC29kvNNXjwNLEDgJMay52QVcvN7pTRNe2oGTIZI0O2R4SG2uBnRDuXjkRjn5T0RIHAUALuPjB9Ik5Zp6JWVx3iPqAgQOKAOL7DpI4farYZZgR3Kd6Icp2JL7kECBA4ox9p75tgTrtVNk04xqtviLrUdlppcJj1wSuMOIHBAJcau57/04tOb/67wojBExCXu8JL1K1wS5JSpKNr6EuYgAGHKo+xqrxS88NyxifFhGqTHrcSCBJX6h59cIacs/x5AmIMABA5ofpxsxwuqb75+YijUjbVlTrfpyoQ5dlDJKd8e0P0mpRW2mIMAZD6GJHjyw0dGUDv5zquT47X1a5c60U3DluUmHgNMFysMscUcBFYyU4Yz/+1Cqy33VJYpwtDtNBcuXj577rtWJwtrY355qOSH7n1++mRZksRR3NmOmjeqZff4y8/OHj0clGsQ2Sp0qFZ8AUc5OM3Mx54qeXJDLy4tX1r64+rq2vqNjT4+9vaPjUw8/OCT04/OTE+xm5KUReUm1F4ODgHPffOz6W1EUERarmkur/zTR/GQ1+5assZyEeYx4gtX6nZ4WNZ/8w3c+nvpxSgAAAAASUVORK5CYII=);
 	border-radius: 999px;
 	border: none !important;
@@ -4137,9 +4137,9 @@ border-radius: 0 0 5px 5px;
 .uploadArea_b78547 .uploadDropModal_b78547 .bgScale_b78547 {
     box-shadow: 0 0 3px 3px rgba(0,0,0,0.4);
 	border-radius: 5px;
-	background: linear-gradient(to top, transparent 35%, rgba(67,84,137) 100%);
+	background: linear-gradient(to top, transparent 35%, rgba(244,188,215) 100%);
     border: 1px solid rgba(230,230,230,0.6);
-	background-color: rgba(37,53,104);
+	background-color: rgba(237,131,179);
 	/*upload drag & drop popup*/
 }
 .uploadDropModal_b78547.error_b78547 {
@@ -5840,7 +5840,7 @@ border-radius: 0 0 5px 5px;
 
 [class*="selectorButtonSelected_"], .theme-light [class*="selectorButtonSelected_"], .pillItemSelected__9e06a {
 	background: linear-gradient(to top, transparent 10%, rgba(244,188,215) 100%) !important;
-	background-color: rgba(37,53,104) !important;
+	background-color: rgba(237,131,179) !important;
 	border-left: 1px solid rgba(230,230,230,0.6);
 	border-right: 1px solid rgba(230,230,230,0.6);
 	border-radius: 0 !important;
@@ -5851,7 +5851,7 @@ border-radius: 0 0 5px 5px;
 }
 
 [class*="selectorButton_"]:active, .theme-light [class*="selectorButton_"]:active, [class*="selectorButtonSelected_"]:active {
-	background: linear-gradient(to top, transparent 12%, rgba(17,23,84) 100%) !important;
+	background: linear-gradient(to top, transparent 12%, rgba(237,131,179) 100%) !important;
 	background-color: rgba(47,64,117) !important;
 }
 .pillItemSelected__9e06a {
@@ -6782,8 +6782,8 @@ border-radius: 0 0 5px 5px;
 }
 .bar__7aaec  {
 	border: 1px solid rgba(230,230,230,0.6) !important;
-	background-image: linear-gradient(to top, transparent 42%, rgba(67,84,137) 100%) !important;
-	background-color: rgba(37,53,104) !important;
+	background-image: linear-gradient(to top, transparent 42%, rgba(244,188,215) 100%) !important;
+	background-color: rgba(237,131,179) !important;
 	box-shadow: 0 0 3px 3px rgba(0,0,0,0.4) !important;
 	border-radius: 5px !important;
 	/*channel column new unreads indicator*/
@@ -8514,10 +8514,10 @@ border-radius: 0 0 5px 5px;
 
 .bar__3b95d.unreadBar__629e4.unread__3b95d.active__3b95d {
 	border-radius: 5px;
-	background: linear-gradient(to top, transparent 22%, rgba(78,93,129) 100%) !important;
+	background: linear-gradient(to top, transparent 22%, rgba(244,188,215) 100%) !important;
 	border: 1px solid rgba(230,230,230,0.6);
 	box-shadow: 0 0 2px 2px rgba(0,0,0,0.5);
-	background-color: rgba(45,58,90) !important;
+	background-color: rgba(237,131,179) !important;
 	margin-bottom: 10px;
 }
 
